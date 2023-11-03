@@ -1,5 +1,5 @@
 #tutorial 1 
-# primeir coisa que voce tem que aprender é como utiliser o comando print() et definir uma variavel
+# primeira coisa que voce tem que aprender é como utiliser o comando print() et definir uma variavel
 # uma variavel e literalmente definir algum numero ou grupo de letras por algo:
 #exemplo:
 gabriel = 8
