@@ -6,3 +6,4 @@ gabriel = 8
 # a variavel e (gabriel) e ela tem o valor
 print(gabriel)
 # aqui agente diz pro computador, pode ecrever gabriel? e como gabriel significa 8 ele escreve 8.
+ 
